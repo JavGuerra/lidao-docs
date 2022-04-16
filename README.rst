@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+LIDAO - Documentación
+=====================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Manuales del proyecto de la plataforma de libros interactivos digitales para el aprendizaje de ortografía - LIDAO
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+http://lidao-docs.readthedocs.io/
