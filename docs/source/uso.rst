@@ -1,5 +1,6 @@
-Usage
-=====
+Uso
+===
+*Revisar*
 
 .. _installation:
 
