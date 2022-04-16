@@ -19,7 +19,7 @@ Consulta la sección :doc:`uso` para más información sobre el proyecto.
 
 .. note::
 
-   Este proyecto está em desarrollo contínuo.
+   Este proyecto está en desarrollo contínuo.
 
 Contenidos
 ----------
