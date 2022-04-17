@@ -31,4 +31,4 @@ Contenidos
    administrador/index
    profesor/index
    alumno/index
-   apendices/*
+   apendices/index
