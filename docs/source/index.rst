@@ -1,5 +1,5 @@
-Bienvenido/a a la documentación de LIDAO
-========================================
+Bienvenido a la documentación de LIDAO
+======================================
 
 Aprender ortografía es una tarea pesada para los alumnos de educación primaria,
 que pierden atención e interés con facilidad. Mediante el uso de recursos
@@ -19,12 +19,16 @@ Consulta la sección :doc:`uso` para más información sobre el proyecto.
 
 .. note::
 
-   Este proyecto está en desarrollo contínuo.
+   Esta documentación está en desarrollo contínuo.
 
 Contenidos
 ----------
 
 .. toctree::
 
+   administrador
+   profesor
+   alumno
+   
    uso
    api
