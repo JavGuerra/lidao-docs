@@ -25,12 +25,13 @@ Contenidos
 ----------
 
 .. toctree::
+   :maxdepth: 2
 
    uso
    aplicacion
 
    Manual del administrador   <Administrador/index.rst>
    Manual del profesor        <Profesor/index.rst>
-   Manual del alumno          <Profesor/index.rst>
+   Manual del alumno          <Alumno/index.rst>
    Apéndices                  <Apendices/index.rst>
 
