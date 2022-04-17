@@ -14,8 +14,11 @@ alumnos que participarán en ellas y los libros que cada sección deberá
 completar, pudiendo hacer un seguimiento del estado de las lecturas de sus
 alumnos.
 
+Consulte la sección :doc:`aplicacion` para más información sobre el proyecto LIDAO.
 
-Consulta la sección :doc:`aplicacion` para más información sobre el proyecto LIDAO.
+.. note::
+
+   Esta documentación está en desarrollo.
 
 
 Contenidos
@@ -26,13 +29,8 @@ Contenidos
    uso
    aplicacion
 
-   1. Manual del administrador   <Administrador/index.rst>
-   2. Manual del profesor        <Profesor/index.rst>
-   3. Manual del alumno          <Profesor/index.rst>
-   Apéndices                     <Profesor/index.rst>
+   Manual del administrador   <Administrador/index.rst>
+   Manual del profesor        <Profesor/index.rst>
+   Manual del alumno          <Profesor/index.rst>
+   Apéndices                  <Apendices/index.rst>
 
-
-
-.. note::
-
-   Esta documentación está en desarrollo.
