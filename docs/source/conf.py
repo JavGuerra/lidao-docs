@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lidao Docs'
-copyright = '2021, JavGuerra'
+project = 'Documentación LIDAO'
+copyright = 'CC-BY 2022, JavGuerra'
 author = 'JavGuerra'
 
 release = '0.1'
