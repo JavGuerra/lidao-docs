@@ -28,4 +28,7 @@ Contenidos
    uso
    aplicacion
 
-
+   administrador/index
+   profesor/index
+   alumno/index
+   apendices/*
