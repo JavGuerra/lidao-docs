@@ -30,8 +30,4 @@ Contenidos
    uso
    aplicacion
 
-   Administrador/index
-   Profesor/index
-   Alumno/index
-   Apendices/index
 
