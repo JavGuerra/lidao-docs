@@ -35,6 +35,8 @@ html_logo = 'lidao.png'
 
 html_favicon = 'favicon.ico'
 
+html_static_path = ['_static']
+
 # -- Options for EPUB output
 
 epub_show_urls = 'footnote'
