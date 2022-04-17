@@ -31,5 +31,9 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+html_logo = 'lidao-pet-64.svg'
+
+html_favicon = 'favicon.ico'
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
