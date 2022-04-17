@@ -14,6 +14,8 @@ alumnos que participarán en ellas y los libros que cada sección deberá
 completar, pudiendo hacer un seguimiento del estado de las lecturas de sus
 alumnos.
 
+Consulte la sección :doc:`aplicacion` para más información sobre el proyecto LIDAO.
+
 .. note::
 
    Esta documentación está en desarrollo.
@@ -26,8 +28,13 @@ Contenidos
    :maxdepth: 2
 
    uso
+
    aplicacion
+
    administrador/index
+
    profesor/index
+
    alumno/index
+   
    apendices/index
