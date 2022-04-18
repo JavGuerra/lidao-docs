@@ -27,7 +27,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_logo = 'lidao.png'
 
-html_favicon = 'favicon.ico'
+#html_favicon = 'favicon.ico'
 
 # -- Options for EPUB output
 
